@@ -34,6 +34,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '.railway.app',
     '.netlify.app'
+    'brain-game-backend.onrender.com',  # Add this line
+    '.onrender.com',
 ]
 
 
